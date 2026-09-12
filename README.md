@@ -1,6 +1,6 @@
-﻿# Kucchu Pucchu EVM
+﻿# KHATARNAK EVM
 
-**Created by anuj_suryavanshii**
+**Created by KAMALGOD**
 
 An interactive, realistic educational simulation of an Electronic Voting Machine (EVM) and Voter Verifiable Paper Audit Trail (VVPAT).
 
